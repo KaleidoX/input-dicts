@@ -57,3 +57,315 @@ license_url: https://wiki.biligame.com/rocom/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%B
 光系灵碎	guang xi ling sui	1
 恶系灵碎	e xi ling sui	1
 幽系灵碎	you xi ling sui	1
+普通灵碎	pu tong ling sui	1
+地系灵碎	di xi ling sui	1
+冰系灵碎	bing xi ling sui	1
+龙系灵碎	long xi ling sui	1
+电系灵碎	dian xi ling sui	1
+毒系灵碎	du xi ling sui	1
+虫系灵碎	chong xi ling sui	1
+武系灵碎	wu xi ling sui	1
+翼系灵碎	yi xi ling sui	1
+萌系灵碎	meng xi ling sui	1
+机械灵碎	ji xie ling sui	1
+幻系灵碎	huan xi ling sui	1
+镜面相框	jing mian xiang kuang	1
+残缺魔镜	can que mo jing	1
+适格钥匙	shi ge yao shi	1
+贤者碎晶	xian zhe sui jing	1
+能力钥匙	neng li yao shi	1
+净化灵药	jing hua ling yao	1
+耐力愿晶	nai li yuan jing	1
+首领血脉凝露	shou ling xue mai ning lu	1
+愿力灵碎	yuan li ling sui	1
+奇异血脉凝露	qi yi xue mai ning lu	1
+眠枭石像专用眠枭之星	mian xiao shi xiang zhuan yong mian xiao zhi xing	1
+向阳花	xiang yang hua	1
+喵喵草	miao miao cao	1
+蓝掌	lan zhang	1
+睡铃	shui ling	1
+天使草	tian shi cao	1
+恢复瓶	hui fu ping	1
+微凝之露	wei ning zhi lu	1
+魔力愿晶	mo li yuan jing	1
+石耳	shi er	1
+伞伞菌	san san jun	1
+蜜黄菌	mi huang jun	1
+喷气菇	pen qi gu	1
+凤眼莲	feng yan lian	1
+蜂窝	feng wo	1
+幽幽草	you you cao	1
+黑晶琉璃	hei jing liu li	1
+眠枭之星	mian xiao zhi xing	1
+水之钥	shui zhi yao	1
+坠星遗石	zhui xing yi shi	1
+星霜花	xing shuang hua	1
+雪菇	xue gu	1
+骨片	gu pian	1
+花星角	hua xing jiao	1
+荧光兰	ying guang lan	1
+大嘴花	da zui hua	1
+流星兰	liu xing lan	1
+紫晶菇	zi jing gu	1
+海桑花	hai sang hua	1
+恶魔雪茄	e mo xue jia	1
+火焰花	huo yan hua	1
+黄石榴石	huang shi liu shi	1
+蓝晶碧玺	lan jing bi xi	1
+紫莲刚玉	zi lian gang yu	1
+冰之钥	bing zhi yao	1
+地之钥	di zhi yao	1
+水之地钥	shui zhi di yao	1
+红色水晶球	hong se shui jing qiu	1
+蓝色水晶球	lan se shui jing qiu	1
+黄色水晶球	huang se shui jing qiu	1
+绿色水晶球	lv se shui jing qiu	1
+瓶装雨天	ping zhuang yu tian	1
+瓶装迷雾	ping zhuang mi wu	1
+瓶装冰雪	ping zhuang bing xue	1
+瓶装沙暴	ping zhuang sha bao	1
+瓶装困倦	ping zhuang kun juan	1
+瓶装恐惧	ping zhuang kong ju	1
+瓶装快乐	ping zhuang kuai le	1
+瓶装斗志	ping zhuang dou zhi	1
+瓶装幸运	ping zhuang xing yun	1
+分光水晶	fen guang shui jing	1
+液化药剂	ye hua yao ji	1
+创造符文	chuang zao fu wen	1
+小小炼金釜	xiao xiao lian jin fu	1
+小小魔力之源	xiao xiao mo li zhi yuan	1
+留影沙漏	liu ying sha lou	1
+黯淡的生长痛	an dan de sheng zhang tong	1
+「招财鸭」玩偶	「 zhao cai ya 」 wan ou	1
+紫色水晶球	zi se shui jing qiu	1
+橙色水晶球	cheng se shui jing qiu	1
+珍品「羽毛」	zhen pin 「 yu mao 」	1
+「好轻松」	「 hao qing song 」	1
+藻羽花	zao yu hua	1
+彩玉花	cai yu hua	1
+象牙花	xiang ya hua	1
+风卷草	feng juan cao	1
+海珊瑚	hai shan hu	1
+海神花	hai shen hua	1
+幽幽鬼火	you you gui huo	1
+紫雀花	zi que hua	1
+洋红珊瑚	yang hong shan hu	1
+杏黄贝	xing huang bei	1
+短木莲	duan mu lian	1
+普通血脉秘药	pu tong xue mai mi yao	1
+草系血脉秘药	cao xi xue mai mi yao	1
+火系血脉秘药	huo xi xue mai mi yao	1
+水系血脉秘药	shui xi xue mai mi yao	1
+光系血脉秘药	guang xi xue mai mi yao	1
+地系血脉秘药	di xi xue mai mi yao	1
+冰系血脉秘药	bing xi xue mai mi yao	1
+龙系血脉秘药	long xi xue mai mi yao	1
+电系血脉秘药	dian xi xue mai mi yao	1
+毒系血脉秘药	du xi xue mai mi yao	1
+虫系血脉秘药	chong xi xue mai mi yao	1
+武系血脉秘药	wu xi xue mai mi yao	1
+翼系血脉秘药	yi xi xue mai mi yao	1
+萌系血脉秘药	meng xi xue mai mi yao	1
+幽系血脉秘药	you xi xue mai mi yao	1
+恶系血脉秘药	e xi xue mai mi yao	1
+机械血脉秘药	ji xie xue mai mi yao	1
+幻系血脉秘药	huan xi xue mai mi yao	1
+万能血脉秘药	wan neng xue mai mi yao	1
+首领血脉秘药	shou ling xue mai mi yao	1
+奇异血脉秘药	qi yi xue mai mi yao	1
+神秘钥匙	shen mi yao shi	1
+通用基础语言模块	tong yong ji chu yu yan mo kuai	1
+遗失的箱子	yi shi de xiang zi	1
+班尼斯特与班班的照片	ban ni si te yu ban ban de zhao pian	1
+埃克斯与山风的照片	ai ke si yu shan feng de zhao pian	1
+艾尔斯和斗斗的照片	ai er si he dou dou de zhao pian	1
+床铺的照片	chuang pu de zhao pian	1
+蹦跳塔台的照片	beng tiao ta tai de zhao pian	1
+仓库的美味可可果	cang ku de mei wei ke ke guo	1
+糖果罐	tang guo guan	1
+白日焰火	bai ri yan huo	1
+梅花落雪	mei hua luo xue	1
+晚霞	wan xia	1
+迷踪魔偶赠予的书页	mi zong mo ou zeng yu de shu ye	1
+契约副券	qi yue fu quan	1
+闪耀契约副券	shan yao qi yue fu quan	1
+特供可瓦斯	te gong ke wa si	1
+入学通知书	ru xue tong zhi shu	1
+白银骑士团聘书	bai yin qi shi tuan pin shu	1
+山姆的诗	shan mu de shi	1
+格鲁特的诗	ge lu te de shi	1
+莉莉丝的诗	li li si de shi	1
+萨默塞特的诗	sa mo sai te de shi	1
+不知名研究员的诗	bu zhi ming yan jiu yuan de shi	1
+匿名的诗	ni ming de shi	1
+盖茨比的诗	gai ci bi de shi	1
+小鱼烧	xiao yu shao	1
+罗宾给的猫罐头	luo bin gei de mao guan tou	1
+残缺的密令	can que de mi ling	1
+格里芬的推荐信	ge li fen de tui jian xin	1
+顺顺特调	shun shun te diao	1
+贝拉的论文1/2	bei la de lun wen 1/2	1
+贝拉的论文2/2	bei la de lun wen 2/2	1
+冰封骑枪	bing feng qi qiang	1
+沧溟罗盘	cang ming luo pan	1
+星芒灵翎	xing mang ling ling	1
+百万洛克贝支票	bai wan luo ke bei zhi piao	1
+十万洛克贝支票	shi wan luo ke bei zhi piao	1
+一万洛克贝支票	yi wan luo ke bei zhi piao	1
+幽渊黯晶提货券	you yuan an jing ti huo quan	1
+一千洛克贝支票	yi qian luo ke bei zhi piao	1
+摄政王选举券	she zheng wang xuan ju quan	1
+低落药膳	di luo yao shan	1
+极乐药膳	ji le yao shan	1
+暴怒药膳	bao nu yao shan	1
+平和药膳	ping he yao shan	1
+作曲家丈夫的曲谱	zuo qu jia zhang fu de qu pu	1
+作曲家丈夫的书信	zuo qu jia zhang fu de shu xin	1
+黑月之书	hei yue zhi shu	1
+魔法师名簿	mo fa shi ming bu	1
+乡土蜂蜜	xiang tu feng mi	1
+特产海盐	te chan hai yan	1
+净化灵药配方	jing hua ling yao pei fang	1
+远古魔法摘录	yuan gu mo fa zhai lu	1
+七色糖果	qi se tang guo	1
+光愈花	guang yu hua	1
+闪焰石	shan yan shi	1
+环流凝露	huan liu ning lu	1
+进化石板	jin hua shi ban	1
+血咒晶	xue zhou jing	1
+噩梦碎片	e meng sui pian	1
+特制药剂	te zhi yao ji	1
+噩梦之眼	e meng zhi yan	1
+共鸣魔法书页	gong ming mo fa shu ye	1
+魔法师手册	mo fa shi shou ce	1
+黑魔法书页	hei mo fa shu ye	1
+怪异的仪式结晶	guai yi de yi shi jie jing	1
+可丽希亚的手账	ke li xi ya de shou zhang	1
+新生指引·冒险	xin sheng zhi yin · mao xian	1
+新生指引·战斗	xin sheng zhi yin · zhan dou	1
+新生指引·炼金	xin sheng zhi yin · lian jin	1
+配方	pei fang	1
+传说印记	chuan shuo yin ji	1
+柔软咕噜球	rou ruan gu lu qiu	1
+帕尔印记	pa er yin ji	1
+精灵保护会徽章	jing ling bao hu hui hui zhang	1
+文物清洁剂	wen wu qing jie ji	1
+1号药剂	1 hao yao ji	1
+2号药剂	2 hao yao ji	1
+神秘奖励	shen mi jiang li	1
+药剂配方	yao ji pei fang	1
+神奇种子	shen qi zhong zi	1
+魔法果实	mo fa guo shi	1
+临时药剂	lin shi yao ji	1
+泪滴结晶	lei di jie jing	1
+「鸭毛」	「 ya mao 」	1
+「甜甜红柿」	「 tian tian hong shi 」	1
+「超甜青提」	「 chao tian qing ti 」	1
+「臭臭可可果」	「 chou chou ke ke guo 」	1
+魔法学院绩点	mo fa xue yuan ji dian	1
+永月之花配方·急救版	yong yue zhi hua pei fang · ji jiu ban	1
+永月之花配方·纯净版	yong yue zhi hua pei fang · chun jing ban	1
+永月之花配方·替代方案	yong yue zhi hua pei fang · ti dai fang an	1
+绩点大赛海报	ji dian da sai hai bao	1
+嘟嘟煲锅灰	du du bao guo hui	1
+特制可瓦斯	te zhi ke wa si	1
+小英	xiao ying	1
+邀请函	yao qing han	1
+甜水树的树枝	tian shui shu de shu zhi	1
+机械零件	ji xie ling jian	1
+黑罗盘	hei luo pan	1
+露萌的暗星球	lu meng de an xing qiu	1
+南十字的订单	nan shi zi de ding dan	1
+记录食材的订单	ji lu shi cai de ding dan	1
+古路尼的订单	gu lu ni de ding dan	1
+奥瑞恩的订单	ao rui en de ding dan	1
+利昂的订单	li ang de ding dan	1
+古啦多的订单	gu la duo de ding dan	1
+破旧的空罐	po jiu de kong guan	1
+破烂的皮带	po lan de pi dai	1
+酸提	suan ti	1
+酸味皮带罐头	suan wei pi dai guan tou	1
+愿骸	yuan hai	1
+苦梅	ku mei	1
+苦味魔芋拌愿骸	ku wei mo yu ban yuan hai	1
+气泡水	qi pao shui	1
+辣柿	la shi	1
+辣味萌系能量汽水	la wei meng xi neng liang qi shui	1
+甜筒底	tian tong di	1
+甜瓜	tian gua	1
+海盐甜筒	hai yan tian tong	1
+弄脏的甜筒底	nong zang de tian tong di	1
+破损的推车	po sun de tui che	1
+破损的木箱	po sun de mu xiang	1
+破损的木桶	po sun de mu tong	1
+破损的陶罐	po sun de tao guan	1
+神秘的碎片	shen mi de sui pian	1
+北境特调原浆	bei jing te diao yuan jiang	1
+治愈兔的歌声	zhi yu tu de ge sheng	1
+獠牙猪的脱落物	liao ya zhu de tuo luo wu	1
+「遗忘骨片」	「 yi wang gu pian 」	1
+「青灰草」	「 qing hui cao 」	1
+「净化水晶」	「 jing hua shui jing 」	1
+「可爱药剂」配方	「 ke ai yao ji 」 pei fang	1
+「悦耳音符」	「 yue er yin fu 」	1
+「甜蜜蜜」	「 tian mi mi 」	1
+「瓶装可爱」	「 ping zhuang ke ai 」	1
+翼王精元	yi wang jing yuan	1
+「彼名噩梦」卷一	「 bi ming e meng 」 juan yi	1
+「彼名噩梦」卷二	「 bi ming e meng 」 juan er	1
+「彼名噩梦」卷三	「 bi ming e meng 」 juan san	1
+「彼名噩梦」卷四	「 bi ming e meng 」 juan si	1
+可可果絮语	ke ke guo xu yu	1
+最好的伙伴	zui hao de huo ban	1
+皎皎明月	jiao jiao ming yue	1
+熠熠星辉	yi yi xing hui	1
+大师级决斗家	da shi ji jue dou jia	1
+老朋友水蓝蓝	lao peng you shui lan lan	1
+老朋友火花	lao peng you huo hua	1
+老朋友喵喵	lao peng you miao miao	1
+初遇水蓝蓝	chu yu shui lan lan	1
+初遇火花	chu yu huo hua	1
+初遇喵喵	chu yu miao miao	1
+亚瑟的王冠	ya se de wang guan	1
+亚瑟的披风	ya se de pi feng	1
+燃了鸭	ran le ya	1
+契约之证	qi yue zhi zheng	1
+同心相伴	tong xin xiang ban	1
+水蓝蓝羁绊	shui lan lan ji ban	1
+火花羁绊	huo hua ji ban	1
+喵喵羁绊	miao miao ji ban	1
+命定之证	ming ding zhi zheng	1
+壁炉边伙伴兑换券	bi lu bian huo ban dui huan quan	1
+星光狮时装兑换券	xing guang shi shi zhuang dui huan quan	1
+烈火守护时装兑换券	lie huo shou hu shi zhuang dui huan quan	1
+皇家狮鹫时装兑换券	huang jia shi jiu shi zhuang dui huan quan	1
+音速犬时装兑换券	yin su quan shi zhuang dui huan quan	1
+岚鸟时装兑换券	lan niao shi zhuang dui huan quan	1
+厉毒修萝时装兑换券	li du xiu luo shi zhuang dui huan quan	1
+翠顶夫人时装兑换券	cui ding fu ren shi zhuang dui huan quan	1
+花魁蜂后时装兑换券	hua kui feng hou shi zhuang dui huan quan	1
+卡洛儿时装兑换券	ka luo er shi zhuang dui huan quan	1
+圣代甜甜时装兑换券	sheng dai tian tian shi zhuang dui huan quan	1
+獠牙猪时装兑换券	liao ya zhu shi zhuang dui huan quan	1
+蒲公英娃娃时装兑换券	pu gong ying wa wa shi zhuang dui huan quan	1
+雪灵时装兑换券	xue ling shi zhuang dui huan quan	1
+旺旺糕饼奇遇兑换券	wang wang gao bing qi yu dui huan quan	1
+学院月度补给	xue yuan yue du bu ji	1
+契约礼券	qi yue li quan	1
+闪耀契约礼券	shan yao qi yue li quan	1
+绒仙子徽章购买凭证	rong xian zi hui zhang gou mai ping zheng	1
+代金券	dai jin quan	1
+新生SIM卡	xin sheng SIM ka	1
+记忆中的头像	ji yi zhong de tou xiang	1
+疾光千兽徽章购买凭证	ji guang qian shou hui zhang gou mai ping zheng	1
+友谊币	you yi bi	1
+印着呱呱的积分卡	yin zhe gu gu de ji fen ka	1
+「初心·迪莫」头像	「 chu xin · di mo 」 tou xiang	1
+绩点大赛课表	ji dian da sai ke biao	1
+工匠的描述	gong jiang de miao shu	1
+海豹战士的「口供」	hai bao zhan shi de 「 kou gong 」	1
+施工现场的照片	shi gong xian chang de zhao pian	1
+共生生态的照片	gong sheng sheng tai de zhao pian	1
+访学留念卡	fang xue liu nian ka	1
+S1徽章购买凭证自选	S1 hui zhang gou mai ping zheng zi xuan	1
+种子口袋	zhong zi kou dai	1
