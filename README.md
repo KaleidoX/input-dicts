@@ -61,9 +61,9 @@ python -m rime_wiki_scraper category rocom skills -o output/rocom_skills.dict.ya
 python -m rime_wiki_scraper category rocom items -o output/rocom_items.dict.yaml  # 道具图鉴
 
 # 一键生成洛奇王国混合字典（带正确许可证）
-python -m rime_wiki_scraper category rocom pets -o output/rocom_pets.dict.yaml && \
-python -m rime_wiki_scraper category rocom skills -o output/rocom_skills.dict.yaml && \
-python -m rime_wiki_scraper category rocom items -o output/rocom_items.dict.yaml && \
+python -m rime_wiki_scraper category rocom pets -o output/rocom_pets.dict.yaml --limit 1000 && \
+python -m rime_wiki_scraper category rocom skills -o output/rocom_skills.dict.yaml --limit 2000 && \
+python -m rime_wiki_scraper category rocom items -o output/rocom_items.dict.yaml --limit 1000 && \
 python -m rime_wiki_scraper merge output/rocom_pets.dict.yaml output/rocom_skills.dict.yaml output/rocom_items.dict.yaml -o output/rocom_mixed.dict.yaml --name "rocom_mixed" --site rocom
 
 # 输出为纯文本
