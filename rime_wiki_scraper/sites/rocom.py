@@ -231,7 +231,21 @@ class RocomSite(WikiSite):
     def _extract_pets(self, soup: BeautifulSoup, html: str) -> List[str]:
         """提取精灵"""
         pets = []
-        
+
+        # 新版图鉴：dex-pet-card 卡片结构
+        for card in soup.find_all('div', class_='dex-pet-card'):
+            name_elem = card.find('div', class_='dex-card-name')
+            if name_elem:
+                link = name_elem.find('a', title=True)
+                if link:
+                    pet_name = link.get('title', '').strip()
+                    if pet_name:
+                        pets.append(pet_name)
+
+        if pets:
+            print(f"通过 dex-pet-card 提取到 {len(pets)} 个精灵")
+            return pets
+
         # 查找所有精灵容器
         pet_containers = soup.find_all('div', class_='rocom_prop_img')
         
@@ -292,7 +306,21 @@ class RocomSite(WikiSite):
     def _extract_skills(self, soup: BeautifulSoup) -> List[str]:
         """提取技能"""
         skills = []
-        
+
+        # 新版图鉴：dex-skill-card 卡片结构
+        for card in soup.find_all('div', class_='dex-skill-card'):
+            name_elem = card.find('div', class_='dex-card-name')
+            if name_elem:
+                link = name_elem.find('a', title=True)
+                if link:
+                    skill_name = link.get('title', '').strip()
+                    if skill_name:
+                        skills.append(skill_name)
+
+        if skills:
+            print(f"通过 dex-skill-card 提取到 {len(skills)} 个技能")
+            return skills
+
         # 查找技能容器
         skill_containers = soup.find_all('div', class_='rocom_skill_bg')
         
@@ -366,6 +394,16 @@ class RocomSite(WikiSite):
         
         for container in item_containers:
             try:
+                # 新版结构：rocom_prop_name 中的链接带 title
+                name_p = container.find('p', class_='rocom_prop_name')
+                if name_p:
+                    link = name_p.find('a', title=True)
+                    if link:
+                        item_name = link.get('title', '').strip()
+                        if item_name:
+                            items.append(item_name)
+                            continue
+
                 # 提取名称
                 name_elem = container.find('span', class_='font-mainfeiziti')
                 if not name_elem:

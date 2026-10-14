@@ -8,16 +8,25 @@ license_url: https://wiki.biligame.com/rocom/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%B
 ---
 
 迪莫	di mo	1
+圣光迪莫	sheng guang di mo	1
+圣草迪莫	sheng cao di mo	1
+圣火迪莫	sheng huo di mo	1
+圣水迪莫	sheng shui di mo	1
 喵喵	miao miao	1
 喵呜	miao wu	1
 魔力猫	mo li mao	1
+叶冕魔力猫	ye mian mo li mao	1
+武斗酷猫	wu dou ku mao	1
 火花	huo hua	1
 焰火	yan huo	1
 火神	huo shen	1
+烈火战神	lie huo zhan shen	1
 水蓝蓝	shui lan lan	1
 波波拉	bo bo la	1
 水灵	shui ling	1
+圣水守护	sheng shui shou hu	1
 鸭吉吉	ya ji ji	1
+鸭吉吉国王	ya ji ji guo wang	1
 板板壳	ban ban ke	1
 咔咔壳	ka ka ke	1
 水泡壳	shui pao ke	1
@@ -27,6 +36,7 @@ license_url: https://wiki.biligame.com/rocom/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%B
 雪绒鸟	xue rong niao	1
 冬羽雀	dong yu que	1
 岚鸟	lan niao	1
+霜翼领主	shuang yi ling zhu	1
 小灵菇	xiao ling gu	1
 幻灵菇	huan ling gu	1
 幻影灵菇	huan ying ling gu	1
@@ -36,25 +46,31 @@ license_url: https://wiki.biligame.com/rocom/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%B
 布是石	bu shi shi	1
 布是岩	bu shi yan	1
 布克棱岩	bu ke leng yan	1
+迷嶂布莱克	mi zhang bu lai ke	1
 恶魔叮	e mo ding	1
 叮叮恶魔	ding ding e mo	1
+恶魔男爵	e mo nan jue	1
 毛毛	mao mao	1
 爬爬	pa pa	1
 化蝶	hua die	1
 幽影树	you ying shu	1
+幻影荆棘	huan ying jing ji	1
 小鼠獭	xiao shu ta	1
 燕尾獭	yan wei ta	1
 卷胡巨獭	juan hu ju ta	1
 矿晶虫	kuang jing chong	1
 晶石蜗	jing shi wo	1
+钻石蜗	zuan shi wo	1
 奇丽草	qi li cao	1
 奇丽叶	qi li ye	1
 奇丽花	qi li hua	1
+奇丽果	qi li guo	1
 丢丢	diu diu	1
 卡卡虫	ka ka chong	1
 卡瓦重	ka wa zhong	1
 护主犬	hu zhu quan	1
 音速犬	yin su quan	1
+风暴战犬	feng bao zhan quan	1
 绿耳松鼠	lv er song shu	1
 抱枕松鼠	bao zhen song shu	1
 蹦床松鼠	beng chuang song shu	1
@@ -72,6 +88,7 @@ license_url: https://wiki.biligame.com/rocom/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%B
 蹦蹦种子	beng beng zhong zi	1
 蹦蹦草	beng beng cao	1
 蹦蹦花	beng beng hua	1
+蹦蹦果	beng beng guo	1
 电咩咩	dian mie mie	1
 粉咩咩	fen mie mie	1
 电球咩咩	dian qiu mie mie	1
@@ -85,11 +102,13 @@ license_url: https://wiki.biligame.com/rocom/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%B
 海盔虫	hai kui chong	1
 刺盔虫	ci kui chong	1
 千棘盔	qian ji kui	1
+千棘海针	qian ji hai zhen	1
 菊花梨	ju hua li	1
 小星光	xiao xing guang	1
 星光狮	xing guang shi	1
 一窝蜂	yi wo feng	1
 黄蜂后	huang feng hou	1
+花魁蜂后	hua kui feng hou	1
 女王蜂	nv wang feng	1
 小夜	xiao ye	1
 紫夜	zi ye	1
@@ -114,21 +133,27 @@ license_url: https://wiki.biligame.com/rocom/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%B
 阿米亚特	a mi ya te	1
 阿米樱	a mi ying	1
 罗隐	luo yin	1
+深渊罗隐	shen yuan luo yin	1
 风铃鲨	feng ling sha	1
 蓝蝶鲨	lan die sha	1
 彩蝶鲨	cai die sha	1
+神谕鲨	shen yu sha	1
 石石	shi shi	1
 巨灵石	ju ling shi	1
 仪使者	yi shi zhe	1
 仪式之星	yi shi zhi xing	1
 仪式巨像	yi shi ju xiang	1
+祭礼巨像	ji li ju xiang	1
 小独角兽	xiao du jiao shou	1
 白金独角兽	bai jin du jiao shou	1
+彩虹独角兽	cai hong du jiao shou	1
 旋叶虫	xuan ye chong	1
 蓬叶虫	peng ye chong	1
 风滚暮虫	feng gun mu chong	1
+暮风隐者	mu feng yin zhe	1
 小黑猫	xiao hei mao	1
 黑猫巫师	hei mao wu shi	1
+黑猫密探	hei mao mi tan	1
 忽幽狸	hu you li	1
 影狸	ying li	1
 多多	duo duo	1
@@ -138,6 +163,7 @@ license_url: https://wiki.biligame.com/rocom/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%B
 怖须菇	bu xu gu	1
 怖哭菇	bu ku gu	1
 恶魔狼	e mo lang	1
+恶魔狼王	e mo lang wang	1
 小电企鹅	xiao dian qi e	1
 电企鹅	dian qi e	1
 雪豆丁	xue dou ding	1
@@ -151,6 +177,7 @@ license_url: https://wiki.biligame.com/rocom/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%B
 大耳帽兜	da er mao dou	1
 帽兜娃娃	mao dou wa wa	1
 雪影娃娃	xue ying wa wa	1
+雪影冰灵	xue ying bing ling	1
 权杖	quan zhang	1
 灵狐	ling hu	1
 九尾狐	jiu wei hu	1
@@ -195,9 +222,10 @@ license_url: https://wiki.biligame.com/rocom/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%B
 卡洛儿	ka luo er	1
 棋棋	qi qi	1
 棋骑士	qi qi shi	1
+棋契陛下	qi qi bi xia	1
+棋绮后	qi qi hou	1
 棋齐垒	qi qi lei	1
 棋祈督	qi qi du	1
-棋绮后	qi qi hou	1
 奔波鼠	ben bo shu	1
 流浪鼠	liu lang shu	1
 呆小路	dai xiao lu	1
@@ -206,12 +234,15 @@ license_url: https://wiki.biligame.com/rocom/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%B
 逗逗	dou dou	1
 气球猫	qi qiu mao	1
 梦想三三	meng xiang san san	1
+奇梦咪	qi meng mi	1
 花怨鳗	hua yuan man	1
 鳗尾兽	man wei shou	1
 伊雷龙	yi lei long	1
+伊兰亚龙	yi lan ya long	1
 伊兰龙	yi lan long	1
 拉特	la te	1
 酷拉	ku la	1
+风暴酷拉	feng bao ku la	1
 闪电环	shan dian huan	1
 刺电环	ci dian huan	1
 荆棘电环	jing ji dian huan	1
@@ -234,11 +265,13 @@ license_url: https://wiki.biligame.com/rocom/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%B
 电动长颈鹿	dian dong chang jing lu	1
 奔乐鹿	ben le lu	1
 爵士鹿	jue shi lu	1
+波普鹿	bo pu lu	1
 缇塔	ti ta	1
 声波缇塔	sheng bo ti ta	1
 小鹬	xiao yu	1
 鄙目鹬	bi mu yu	1
 高脚鹬	gao jiao yu	1
+高帽鹬者	gao mao yu zhe	1
 脆筒甜甜	cui tong tian tian	1
 香草甜甜	xiang cao tian tian	1
 圣代甜甜	sheng dai tian tian	1
@@ -292,8 +325,10 @@ license_url: https://wiki.biligame.com/rocom/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%B
 铠甲虫	kai jia chong	1
 圣剑侍从	sheng jian shi cong	1
 圣剑	sheng jian	1
+圣剑骑士	sheng jian qi shi	1
 吸泥鸥	xi ni ou	1
 泥吼牙	ni hou ya	1
+淤泥乌泽	yu ni wu ze	1
 大头骨龙	da tou gu long	1
 寂灭骨龙	ji mie gu long	1
 厉毒小萝	li du xiao luo	1
@@ -335,6 +370,7 @@ license_url: https://wiki.biligame.com/rocom/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%B
 空空颅	kong kong lu	1
 夜宿颅	ye su lu	1
 夜枭	ye xiao	1
+暗夜颅主	an ye lu zhu	1
 粉粉星	fen fen xing	1
 小皮球	xiao pi qiu	1
 贝瑟	bei se	1
@@ -353,27 +389,98 @@ license_url: https://wiki.biligame.com/rocom/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%B
 幽星光	you xing guang	1
 曜星光	yao xing guang	1
 暮星辰	mu xing chen	1
-叶冕魔力猫	ye mian mo li mao	1
-烈火战神	lie huo zhan shen	1
-圣水守护	sheng shui shou hu	1
-鸭吉吉国王	ya ji ji guo wang	1
-霜翼领主	shuang yi ling zhu	1
-迷嶂布莱克	mi zhang bu lai ke	1
-幻影荆棘	huan ying jing ji	1
-钻石蜗	zuan shi wo	1
-奇丽果	qi li guo	1
-风暴战犬	feng bao zhan quan	1
-蹦蹦果	beng beng guo	1
-千棘海针	qian ji hai zhen	1
-花魁蜂后	hua kui feng hou	1
-神谕鲨	shen yu sha	1
-祭礼巨像	ji li ju xiang	1
-彩虹独角兽	cai hong du jiao shou	1
-黑猫密探	hei mao mi tan	1
-恶魔狼王	e mo lang wang	1
-雪影冰灵	xue ying bing ling	1
-棋契陛下	qi qi bi xia	1
-奇梦咪	qi meng mi	1
-伊兰亚龙	yi lan ya long	1
-波普鹿	bo pu lu	1
-圣剑骑士	sheng jian qi shi	1
+钨丝贝贝	wu si bei bei	1
+辉光幕机	hui guang mu ji	1
+机幕方舟	ji mu fang zhou	1
+凡雀	fan que	1
+紫翎鹰	zi ling ying	1
+凡鹰	fan ying	1
+小雪人	xiao xue ren	1
+雪怪	xue guai	1
+爆焰仔	bao yan zai	1
+爆焰喷喷	bao yan pen pen	1
+猴麦仔	hou mai zai	1
+音碟吼	yin die hou	1
+加油海葵	jia you hai kui	1
+加油蟹	jia you xie	1
+小丑豆豆	xiao chou dou dou	1
+小丑兔	xiao chou tu	1
+小丑公爵	xiao chou gong jue	1
+烟花团	yan hua tuan	1
+烟花伯爵	yan hua bo jue	1
+咕咕帽	gu gu mao	1
+咕德帽帽	gu de mao mao	1
+炫光迪迪	xuan guang di di	1
+霹雳迪迪	pi li di di	1
+小鼓象	xiao gu xiang	1
+巨鼓象	ju gu xiang	1
+牵线木偶	qian xian mu ou	1
+帅帅魔偶	shuai shuai mo ou	1
+学院呱呱	xue yuan gu gu	1
+烈钻鸟	lie zuan niao	1
+长尾火鸟	zhang wei huo niao	1
+火羽	huo yu	1
+叮叮卯	ding ding mao	1
+飞飞钥	fei fei yao	1
+碎晶蝎	sui jing xie	1
+晶尾蝎	jing wei xie	1
+蝎子王	xie zi wang	1
+森豆丁	sen dou ding	1
+森蛮人	sen man ren	1
+森巨人	sen ju ren	1
+霹雳宝宝	pi li bao bao	1
+雷鸣小子	lei ming xiao zi	1
+雷神之子	lei shen zhi zi	1
+雪灵兽	xue ling shou	1
+幻雪兽	huan xue shou	1
+饮雪狂兽	yin xue kuang shou	1
+火豆丁	huo dou ding	1
+火蛮人	huo man ren	1
+火巨人	huo ju ren	1
+友爱天天	you ai tian tian	1
+友爱星飞	you ai xing fei	1
+莫比乌乌	mo bi wu wu	1
+克莱因龙	ke lai yin long	1
+瑰眼仔	gui yan zai	1
+耳翎瑰魅	er ling gui mei	1
+邪眼巨魔	xie yan ju mo	1
+觅觅蝠	mi mi fu	1
+翻翻蝠	fan fan fu	1
+夜游魔	ye you mo	1
+芽眼魔	ya yan mo	1
+叶眼魔	ye yan mo	1
+障眼魔	zhang yan mo	1
+星云旅者	xing yun lv zhe	1
+点点	dian dian	1
+珀尔鼬	po er you	1
+不咕钟	bu gu zhong	1
+溯源钟	su yuan zhong	1
+加灵	jia ling	1
+加益	jia yi	1
+加尔	jia er	1
+黑化加尔	hei hua jia er	1
+咬咬小子	yao yao xiao zi	1
+胡桃王子	hu tao wang zi	1
+足尖元件	zu jian yuan jian	1
+离心舞者	li xin wu zhe	1
+蝴蝶陶陶	hu die tao tao	1
+铆钉毛毛	mao ding mao mao	1
+徘徊爪爪	pai huai zhao zhao	1
+苞米仔	bao mi zai	1
+炮米花	pao mi hua	1
+十字蝌蚪	shi zi ke dou	1
+十字蛙	shi zi wa	1
+深渊蛙	shen yuan wa	1
+卡波	ka bo	1
+卡拉波斯	ka la bo si	1
+守夜烛	shou ye zhu	1
+流明坎德拉	liu ming kan de la	1
+蜜果骸	mi guo hai	1
+半朽蜜果灵	ban xiu mi guo ling	1
+稻草人	dao cao ren	1
+稻草守护者	dao cao shou hu zhe	1
+栗鼠	li shu	1
+壳栗丝鼠	ke li si shu	1
+睡铃雪影娃娃	shui ling xue ying wa wa	1
+宝藏小狐	bao zang xiao hu	1
+宝藏沙狐	bao zang sha hu	1
